@@ -1,5 +1,4 @@
-{
-  "Songlist" = [
+[
 {
     "Song" : "Lightswitch",
     "Author" : "Charlie Puth",
@@ -73,5 +72,3 @@
     "Genre" : "Pop"
 }
 ]
-}
-;
