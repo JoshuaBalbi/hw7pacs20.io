@@ -57,18 +57,18 @@
     "Song" : "All of Me",
     "Author" : "John Legend",
     "Year" : 2013,
-    "Genre" :  "R&B/Soul"
+    "Genre" :  ["R&B/Soul"]
 },
 {
     "Song" : "The One That Got Away",
     "Author" : "Katy Perry",
     "Year" : 2010 ,
-    "Genre" : "Elecronic"
+    "Genre" : ["Elecronic"]
 },
 {
     "Song" : "Love You Like A Love Song",
     "Author" : "Selena Gomez",
     "Year" : 2011,
-    "Genre" : "Pop"
+    "Genre" : ["Pop"]
 }
 ]
